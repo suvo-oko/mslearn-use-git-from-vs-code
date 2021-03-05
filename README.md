@@ -4,7 +4,7 @@ languages:
 - csharp
 products:
 - dotnet
-description: "Add 150 character max description"
+description: "Git capabilities in VS Code"
 urlFragment: "update-this-to-unique-url-stub"
 ---
 
